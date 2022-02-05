@@ -12,7 +12,8 @@ class Solution {
         return max;
     }
 }
-//
+
+// other way
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int maxWealthSoFar = 0;
